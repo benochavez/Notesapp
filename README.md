@@ -1,2 +1,2 @@
 # Notesapp
-un blog para empezar
+Blog de notas para el curso de Udemy
